@@ -1,5 +1,5 @@
-Hi, my name is Ivan♔
-I`m currently a Platzi student with approach on front end development ♥ 👨‍💻 | I love play chees ♟️♟️♟️ | Member in Platzi Master, cohort 6 🤓
+**Hi, my name is Ivan**♔
+>I`m currently a Platzi student with approach on front end development ♥ 👨‍💻 | I love play chees ♟️♟️♟️ | Member in Platzi Master, cohort 6 🤓
 
 Please follow me on: Twitter @Ivanbarco_20 | IG @ivan.barco_93  to be in contact.
 
