@@ -1,8 +1,9 @@
+<div>
 **Hi, my name is Ivan**♔
 >I`m currently a Platzi student with approach on front end development ♥ 👨‍💻 | I love play chees ♟️♟️♟️ | Member in Platzi Master, cohort 6 🤓
 
 Please follow me on: Twitter @Ivanbarco_20 | IG @ivan.barco_93  to be in contact.
-
+</div>
 <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
 
