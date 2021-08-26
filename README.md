@@ -1,4 +1,5 @@
-<img src="https://www.canva.com/design/DAEoKhVtcyE/GgnpNOb7GZj_taXDMC4dKg/view">
+![IVAN BARCO](https://user-images.githubusercontent.com/67293795/130893427-aa85bbda-6ac5-4d28-b161-2fcd0ac4c8b7.png)
+
 
 **Hi, my name is Ivan**♔
 
