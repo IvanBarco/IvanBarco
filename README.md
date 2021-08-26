@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAEoKhVtcyE/watch">
+<img src="https://www.canva.com/design/DAEoKhVtcyE/GgnpNOb7GZj_taXDMC4dKg/view">
 
 **Hi, my name is Ivan**♔
 
