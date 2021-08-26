@@ -3,7 +3,7 @@
 
 
 <p>I' m a Front End developer with approach on React.js. I have worked on Projects using HTML & CSS3, JavaScript, React J.s, and methodologies as Scrum. I continuously pursue more skills and I share my knowledge with colleagues and communnities <br>
-😄 Pronouns: he/him
+😄 Pronouns: he/him <br>
 ⚡ Fun fact: my last name translate from spanish means ship
 </p>
 <p align="center">
