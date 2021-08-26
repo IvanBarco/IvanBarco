@@ -14,7 +14,7 @@
 <hr>
 <div>
 🎯 &nbsp;&nbsp;Some technologies I use:
-<hr>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 </div>
+<hr>
 <h4>👨‍💻&nbsp;&nbsp;&nbsp;My Projects</h4>
 <!--
 **IvanBarco/IvanBarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
