@@ -1,8 +1,7 @@
 <div>
+  <img src="https://www.canva.com/design/DAEoKhVtcyE/GgnpNOb7GZj_taXDMC4dKg/view?utm_content=DAEoKhVtcyE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 **Hi, my name is Ivan**♔
->I`m currently a Platzi student with approach on front end development ♥ 👨‍💻 | I love play chees ♟️♟️♟️ | Member in Platzi Master, cohort 6 🤓
 
-Please follow me on: Twitter @Ivanbarco_20 | IG @ivan.barco_93  to be in contact.
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
