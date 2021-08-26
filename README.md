@@ -1,6 +1,5 @@
-<h1 align='center'>Hi there 👋🏻, my name is Ivan Barco🚢</h1>
 ![IVAN BARCO](https://user-images.githubusercontent.com/67293795/130893427-aa85bbda-6ac5-4d28-b161-2fcd0ac4c8b7.png)
-
+<h1 align='center'>Hi there 👋🏻, my name is Ivan Barco🚢</h1>
 <p>I' m a Front End developer with approach on React.js. I have worked on Projects using HTML & CSS3, JavaScript, React J.s, and methodologies as Scrum </br> I continuously pursue more skills and I share my knowledge with colleagues</p>\
  <a href="https://www.linkedin.com/in/ivanbarcop/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/ivanbarco_20"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
