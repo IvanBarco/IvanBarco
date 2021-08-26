@@ -1,4 +1,4 @@
-<p align="center">![IVAN BARCO](https://user-images.githubusercontent.com/67293795/130893427-aa85bbda-6ac5-4d28-b161-2fcd0ac4c8b7.png)</p>
+![IVAN BARCO](https://user-images.githubusercontent.com/67293795/130893427-aa85bbda-6ac5-4d28-b161-2fcd0ac4c8b7.png)
 <h1 align='center'>Hi there 👋🏻, my name is Ivan Barco🚢</h1>
 
 
