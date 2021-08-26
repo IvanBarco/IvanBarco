@@ -2,8 +2,9 @@
 <h1 align='center'>Hi there 👋🏻, my name is Ivan Barco🚢</h1>
 
 
-<p>I' m a Front End developer with approach on React.js. I have worked on Projects using HTML & CSS3, JavaScript, React J.s, and methodologies as Scrum.I continuously pursue more skills and I share my knowledge with colleagues and communnities <br>
+<p>I' m a Front End developer with approach on React.js. I have worked on Projects using HTML & CSS3, JavaScript, React J.s, and methodologies as Scrum. I continuously pursue more skills and I share my knowledge with colleagues and communnities <br>
 😄 Pronouns: he/him
+⚡ Fun fact: my last name translate from spanish means ship
 </p>
 <p align="center">
  <a href="https://www.linkedin.com/in/ivanbarcop/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -13,7 +14,6 @@
 <hr>
 <div>
 🎯 &nbsp;&nbsp;Some technologies I use:
-<br>
 <hr>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
