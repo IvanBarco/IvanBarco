@@ -1,4 +1,5 @@
-![IVAN BARCO](https://user-images.githubusercontent.com/67293795/130893427-aa85bbda-6ac5-4d28-b161-2fcd0ac4c8b7.png)
+![Diseño sin título](https://user-images.githubusercontent.com/67293795/131149497-a305297c-ad5c-420b-87da-47fcd4636ef2.png)
+
 <h1 align='center'>Hi there 👋🏻, my name is Ivan Barco🚢</h1>
 
 
