@@ -5,7 +5,7 @@
 
 <p>I' m a Front End developer with approach on React.js. I have worked on Projects using HTML & CSS3, JavaScript, React J.s, and methodologies as Scrum. I continuously pursue more skills and I share my knowledge with colleagues and communnities <br>
 😄 Pronouns: he/him <br>
-⚡ Fun fact: my last name translate from spanish means ship
+⚡ Fun fact: my last name translated from spanish means ship
 </p>
 <p align="center">
  <a href="https://www.linkedin.com/in/ivanbarcop/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
